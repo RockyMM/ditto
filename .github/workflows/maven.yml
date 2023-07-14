@@ -25,6 +25,7 @@ on:
       - 'SECURITY.md'
       - 'deployment/**'
       - 'documentation/**'
+      - 'ui/**'
 
 jobs:
   build:
