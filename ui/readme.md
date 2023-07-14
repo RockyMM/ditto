@@ -1,5 +1,9 @@
 # Getting started
 
+## Prerequisites
+
+- Node.js 18.x
+
 ## Development
 
 To start development server use
